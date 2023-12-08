@@ -1,0 +1,28 @@
+Population Size: 100000 | Vaccination Percentage: 0.9 | Virus: Ebola | Mortality Rate: 0.7 | Reproduction Rate: 0.25
+
+Time Step 1
+New Infections: 24 | New Deaths: 17 | Current Living Population: 99983
+Total Deaths: 17  Total Vaccinated: 90007
+
+Time Step 2
+New Infections: 318 | New Deaths: 231 | Current Living Population: 99766
+Total Deaths: 248  Total Vaccinated: 90094
+
+Time Step 3
+New Infections: 2699 | New Deaths: 1912 | Current Living Population: 98015
+Total Deaths: 2160  Total Vaccinated: 90881
+
+Time Step 4
+New Infections: 6753 | New Deaths: 4701 | Current Living Population: 94655
+Total Deaths: 6861  Total Vaccinated: 92933
+
+Time Step 5
+New Infections: 6603 | New Deaths: 4634 | Current Living Population: 93312
+Total Deaths: 11495  Total Vaccinated: 94655
+
+Simulation End Stats:
+Total Population: 93312
+Total Infected: 6603
+Total Deaths: 11495
+Total Vaccinated: 94655
+
